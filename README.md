@@ -1,6 +1,7 @@
 # ngx-package-starter
 
 ## Commands
+
 `npm start` Run the demo environment
 
 `npm run test` Run tests

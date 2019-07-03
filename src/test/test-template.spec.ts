@@ -3,14 +3,10 @@ import { async, TestBed } from '@angular/core/testing';
 import {} from 'jasmine';
 
 describe('NgxPackageStarterTestTemplate', () => {
-
     beforeEach(async(() => {
         TestBed.configureTestingModule({
-            declarations: [
-            ],
-            imports: [
-                BrowserModule,
-            ],
+            declarations: [],
+            imports: [BrowserModule],
         });
     }));
 
